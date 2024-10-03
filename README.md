@@ -20,26 +20,4 @@ Experiments are conducted on four publicly brain MRI datasets: Mindboggle [Mindb
 
 # Baseline Methods
 
-[VoxelMorph](https://github.com/voxelmorph/voxelmorph)
-
-[CycleMorph](https://github.com/boahK/MEDIA_CycleMorph)
-
-[Dual-PRNet](https://github.com/anonymous2024slnet/SLNet/blob/main/models/PRNet.py)
-
-[Dual-PRNet++](https://github.com/anonymous2024slnet/SLNet/blob/main/models/PRNet.py)
-
-[Swin-VoxelMorph](https://github.com/YongpeiZhu/Swin-VoxelMorph/tree/master)
-
-[ViT-V-Net](https://github.com/junyuchen245/ViT-V-Net_for_3D_Image_Registration_Pytorch)
-
-[TransMorph](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration)
-
-[XMorpher](https://github.com/Solemoon/XMorpher)
-
-[Deformer](https://github.com/CJSOrange/DMR-Deformer)
-
-[Im2grid](https://github.com/anonymous2024slnet/SLNet/blob/main/models/Im2grid.py)
-
-[ModeT](https://github.com/anonymous2024slnet/SLNet/blob/main/models/ModeT.py)
-
-[TransMatch](https://github.com/tzayuan/TransMatch_TMI)
+The baseline methods are as follows: [VoxelMorph](https://github.com/voxelmorph/voxelmorph), [CycleMorph](https://github.com/boahK/MEDIA_CycleMorph), [Dual-PRNet](https://github.com/anonymous2024slnet/SLNet/blob/main/models/PRNet.py), [Dual-PRNet++](https://github.com/anonymous2024slnet/SLNet/blob/main/models/PRNet.py), [Swin-VoxelMorph](https://github.com/YongpeiZhu/Swin-VoxelMorph/tree/master), [ViT-V-Net](https://github.com/junyuchen245/ViT-V-Net_for_3D_Image_Registration_Pytorch), [TransMorph](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration), [XMorpher](https://github.com/Solemoon/XMorpher), [Deformer](https://github.com/CJSOrange/DMR-Deformer), [Im2grid](https://github.com/anonymous2024slnet/SLNet/blob/main/models/Im2grid.py), [ModeT](https://github.com/anonymous2024slnet/SLNet/blob/main/models/ModeT.py), and [TransMatch](https://github.com/tzayuan/TransMatch_TMI).
