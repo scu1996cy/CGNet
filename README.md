@@ -8,15 +8,7 @@ The paper is currently under review, and more details will be disclosed once it 
 
 # Environment
 
-cuda 11.4
-
-python 3.6
-
-pytorch 1.7.1
-
-torchvision 0.8.2
-
-simpleitk 2.1.1
+We implement the code on python 3.6, pytorch 1.7.1, torchvision 0.8.2, and simpleitk 2.1.1.
 
 # Train and Infer
 
