@@ -1,4 +1,10 @@
-# CGNet
+# CGNet: A Correlation-Guided Registration Network for Unsupervised Deformable Image Registration
+
+This repository contains the implementations of the paper 'CGNet: A Correlation-Guided Registration Network for Unsupervised Deformable Image Registration'.
+
+By Yuan Chang, Zheng Li and Wenzheng Xu.
+
+The paper is currently under review, and more details will be disclosed once it is accepted.
 
 # Environment
 
@@ -12,6 +18,10 @@ torchvision 0.8.2
 
 simpleitk 2.1.1
 
+# Train and Infer
+
+First, before executing training or inference using commands, please ensure that the dataset address has been modified. Then, run 'python train_CGNet.py' or 'python infer_CGNet.py'.
+
 # Dataset
 
 [OASIS](https://sites.wustl.edu/oasisbrains/]) dataset.
@@ -21,10 +31,6 @@ simpleitk 2.1.1
 [LPBA](https://resource.loni.usc.edu/resources/atlases-downloads/) dataset.
 
 [Mindboggle](https://osf.io/nhtur/) dataset.
-
-# Training
-
-First, you need to download the original dataset, and then perform all the processing operations mentioned in the paper using [FreeSurfer](https://surfer.nmr.mgh.harvard.edu/). Finally, run 'python train_CGNet.py'.
 
 # Baseline Methods
 
