@@ -22,10 +22,6 @@ Experiments are conducted on four publicly brain MRI datasets: Mindboggle [link]
 
 We compare our CGNet with twelve baseline methods: [VoxelMorph](https://github.com/voxelmorph/voxelmorph), [CycleMorph](https://github.com/boahK/MEDIA_CycleMorph), [Dual-PRNet](https://github.com/anonymous2024slnet/SLNet/blob/main/models/PRNet.py), [Dual-PRNet++](https://github.com/anonymous2024slnet/SLNet/blob/main/models/PRNet.py), [Swin-VoxelMorph](https://github.com/YongpeiZhu/Swin-VoxelMorph/tree/master), [ViT-V-Net](https://github.com/junyuchen245/ViT-V-Net_for_3D_Image_Registration_Pytorch), [TransMorph](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration), [XMorpher](https://github.com/Solemoon/XMorpher), [Deformer](https://github.com/CJSOrange/DMR-Deformer), [Im2grid](https://github.com/anonymous2024slnet/SLNet/blob/main/models/Im2grid.py), [ModeT](https://github.com/anonymous2024slnet/SLNet/blob/main/models/ModeT.py), and [TransMatch](https://github.com/tzayuan/TransMatch_TMI).
 
-# Acknowledgement
-
-Some codes in this repository are modified from [TransMorph](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration). Thanks a lot for their great contribution.
-
 # Question
 
 For any questions, please open an issue or email changyuan@stu.scu.edu.cn.
