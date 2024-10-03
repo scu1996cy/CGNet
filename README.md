@@ -24,13 +24,7 @@ First, before executing training or inference using commands, please ensure that
 
 # Dataset
 
-[OASIS](https://sites.wustl.edu/oasisbrains/]) dataset.
-
-[IXI](https://brain-development.org/ixi-dataset/) dataset.
-
-[LPBA](https://resource.loni.usc.edu/resources/atlases-downloads/) dataset.
-
-[Mindboggle](https://osf.io/nhtur/) dataset.
+Experiments are conducted on four publicly brain MRI datasets: Mindboggle [Mindboggle dataset official link](https://osf.io/nhtur/), LONI Probabilistic Brain Atlas [LPBA dataset official link](https://resource.loni.usc.edu/resources/atlases-downloads/), Open Access Series of Imaging Studies (OASIS) [OASIS dataset official link](https://sites.wustl.edu/oasisbrains/]), and IXI [IXI dataset official link](https://brain-development.org/ixi-dataset/).
 
 # Baseline Methods
 
