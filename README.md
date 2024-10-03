@@ -1,6 +1,6 @@
 # CGNet: A Correlation-Guided Registration Network for Unsupervised Deformable Image Registration
 
-This repository contains the implementations of the paper 'CGNet: A Correlation-Guided Registration Network for Unsupervised Deformable Image Registration'.
+This is the official pytorch implementation of the paper 'CGNet: A Correlation-Guided Registration Network for Unsupervised Deformable Image Registration'.
 
 By Yuan Chang, Zheng Li and Wenzheng Xu.
 
