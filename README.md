@@ -13,8 +13,11 @@ We implement the code on ```python 3.6```, ```pytorch 1.7.1```, ```torchvision 0
 # Train and Infer
 
 Step 1: Before executing training or inference using commands, please ensure that the dataset address has been modified: ``` train_dir = 'Path_to_OASIS_data/Train/' ```, ``` val_dir = 'Path_to_OASIS_data/Val/' ```, and ``` test_dir = 'Path_to_OASIS_data/Test/' ```.
+
 Step 2: ```python train_CGNet.py``` to train the CGNet. 
+
 Step 3: ```python infer_CGNet.py``` to test the CGNet.
+
 Modifying "batch_size," "lr," and "weights" in the training code can adjust the batch size, learning rate, and loss weights used for image similarity measure loss and deformation field regularization loss.
 
 # Dataset
