@@ -12,7 +12,8 @@ We implement the code on python 3.6, pytorch 1.7.1, torchvision 0.8.2, and simpl
 
 # Train and Infer
 
-First, before executing training or inference using commands, please ensure that the dataset address has been modified. Then, run 'python train_CGNet.py' or 'python infer_CGNet.py'.
+First, before executing training or inference using commands, please ensure that the dataset address has been modified. ``` train_dir = 'Path_to_OASIS_data/Train/' ```
+Then, run 'python train_CGNet.py' or 'python infer_CGNet.py'.
 
 # Dataset
 
